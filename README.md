@@ -1,2 +1,2 @@
 IMPORTANT:
-IT IS NOT MY RESPONSIBILITY IF YOUR SYSTEM GETS DAMAGED, YOU CAN GO SEE THE CODE YOUR SELF.
+This will not damage your system, its just a forbomb and will shutdown your computer after 1 minute
